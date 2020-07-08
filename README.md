@@ -1,5 +1,11 @@
 # 樱按钮 / みこボタン / Miko Button
 
+## 请注意
+
+### 此仓库仅用于测试新功能，包含部分实验特性，可能会产生各种不可意料的错误，请勿在生产环境使用！
+
+### 可用于公开使用的稳定版本：[MikoButton](https://github.com/VoiceButtonUnitedProject/MikoButton)
+
 ### Nya Hello ~!
 
 ### https://sakuramiko.org
