@@ -47,8 +47,8 @@
             <div class="container-fluid footer-content">
                 <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #000000;text-decoration: none">{{$t("info.version")}}</a></button>
                 <div class="pull-left">
-                    <div class="text-left" style="color: #FF592D">{{$t("info.author")}}</div>
-                    <div class="text-left" style="color: #666666">{{$t("info.notOfficial")}}</div>
+                    <div class="text-left" style="color: #FF4113">{{$t("info.author")}}</div>
+                    <div class="text-left" style="color: #333333">{{$t("info.notOfficial")}}</div>
                     <div class="text-left"><a href="https://voicebuttonunitedproject.github.io/MikoButton/" target="_blank">{{$t("info.audioStaff")}}</a></div>
                     <div class="text-left"><a href="https://github.com/VoiceButtonUnitedProject/MikoButton" target="_blank">{{$t("info.toGithub")}}</a></div>
                 </div>
@@ -170,7 +170,7 @@
     width: 100%;
     height: 100%;
     min-height: 60px;
-    background-color: #d3bdcc;
+    background-color: #ddacf3;
 }
 .footer-content {
     padding-top: 10px;
